@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+
+# Logs
+logs
+*.log
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
+prisma/migrations/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+
+
+config.bat
